@@ -1,0 +1,142 @@
+C:\Users\dangv\Desktop\1312001\1312001\bin\Debug\1312001.exe.config
+C:\Users\dangv\Desktop\1312001\1312001\bin\Debug\1312001.exe
+C:\Users\dangv\Desktop\1312001\1312001\bin\Debug\1312001.pdb
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\1312001.csprojResolveAssemblyReference.cache
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\Cot.baml
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\Cot.g.cs
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\MainWindow.g.cs
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\App.g.cs
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\1312001_MarkupCompile.cache
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\1312001_MarkupCompile.lref
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\MainWindow.baml
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\1312001.g.resources
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\_1312001.Properties.Resources.resources
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\1312001.csproj.GenerateResource.Cache
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\1312001.exe
+C:\Users\dangv\Desktop\1312001\1312001\obj\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\bin\Debug\1312001.exe.config
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\bin\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\bin\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\1312001.csprojResolveAssemblyReference.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\Cot.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\Cot.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\MainWindow.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\App.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\1312001_MarkupCompile.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\1312001_MarkupCompile.lref
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\MainWindow.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\1312001.g.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\_1312001.Properties.Resources.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\1312001.csproj.GenerateResource.Cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\Ban_Co.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\1312001_10\Source\1312001\1312001\obj\Debug\Ban_Co.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\bin\Debug\1312001.exe.config
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\bin\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\bin\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\1312001.csprojResolveAssemblyReference.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\Cot.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\Ban_Co.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\Cot.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\MainWindow.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\App.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\1312001_MarkupCompile.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\1312001_MarkupCompile.lref
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\Ban_Co.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\MainWindow.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\1312001.g.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\_1312001.Properties.Resources.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan2\Bai Sua\1312001\1312001\obj\Debug\1312001.csproj.GenerateResource.Cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\bin\Debug\1312001.exe.config
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\bin\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\bin\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\bin\Debug\WebSocket4Net.dll
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\1312001.csprojResolveAssemblyReference.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\Cot.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\Ban_Co.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\Cot.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\MainWindow.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\App.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\1312001_MarkupCompile.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\1312001_MarkupCompile.lref
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\Ban_Co.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\MainWindow.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\1312001.g.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\_1312001.Properties.Resources.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\1312001\obj\Debug\1312001.csproj.GenerateResource.Cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\bin\Debug\1312001.exe.config
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\bin\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\bin\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\1312001.csprojResolveAssemblyReference.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\Cot.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\Ban_Co.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\Cot.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\MainWindow.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\App.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\1312001_MarkupCompile.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\1312001_MarkupCompile.lref
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\Ban_Co.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\MainWindow.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\1312001.g.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\_1312001.Properties.Resources.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001\Source\1312001\1312001\obj\Debug\1312001.csproj.GenerateResource.Cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\bin\Debug\1312001.exe.config
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\bin\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\bin\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\1312001.csprojResolveAssemblyReference.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\Cot.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\Ban_Co.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\Cot.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\MainWindow.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\App.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\1312001_MarkupCompile.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\1312001_MarkupCompile.lref
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\Ban_Co.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\MainWindow.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\1312001.g.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\_1312001.Properties.Resources.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\1312001_9\Source\1312001\1312001\obj\Debug\1312001.csproj.GenerateResource.Cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\bin\Debug\1312001.exe.config
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\bin\Debug\1312001.exe
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\bin\Debug\1312001.pdb
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\1312001.csprojResolveAssemblyReference.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\Cot.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\Cot.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\MainWindow.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\App.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\1312001_MarkupCompile.cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\1312001_MarkupCompile.lref
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\MainWindow.baml
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\1312001.g.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\_1312001.Properties.Resources.resources
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\obj\Debug\1312001.csproj.GenerateResource.Cache
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\bin\Debug\Configuration.dll
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\dangv\Dropbox\HK5\Lập trình Windowns\DA2_Gomoku\Lan3\Lan3_NangCap\1312001\1312001\bin\Debug\WebSocket4Net.dll

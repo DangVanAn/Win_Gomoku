@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="_1312001.Cot"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="360" d:DesignWidth="30" Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Name="C0_C0" Width="*" />           
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Name="C0_R0" Height="*" />
+                <RowDefinition Name="C0_R1" Height="*" />
+                <RowDefinition Name="C0_R2" Height="*" />
+                <RowDefinition Name="C0_R3" Height="*" />
+                <RowDefinition Name="C0_R4" Height="*" />
+                <RowDefinition Name="C0_R5" Height="*" />
+                <RowDefinition Name="C0_R6" Height="*" />
+                <RowDefinition Name="C0_R7" Height="*" />
+                <RowDefinition Name="C0_R8" Height="*" />
+                <RowDefinition Name="C0_R9" Height="*" />
+                <RowDefinition Name="C0_R10" Height="*" />
+                <RowDefinition Name="C0_R11" Height="*" />
+            </Grid.RowDefinitions>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x0_y0" Grid.Column="0" Grid.Row="0" Click="x0_y0_Click" />               
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x1_y0" Grid.Column="0" Grid.Row="1" Click="x1_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x2_y0" Grid.Column="0" Grid.Row="2" Click="x2_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x3_y0" Grid.Column="0" Grid.Row="3" Click="x3_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x4_y0" Grid.Column="0" Grid.Row="4" Click="x4_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x5_y0" Grid.Column="0" Grid.Row="5" Click="x5_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x6_y0" Grid.Column="0" Grid.Row="6" Click="x6_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x7_y0" Grid.Column="0" Grid.Row="7" Click="x7_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x8_y0" Grid.Column="0" Grid.Row="8" Click="x8_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x9_y0" Grid.Column="0" Grid.Row="9" Click="x9_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x10_y0" Grid.Column="0" Grid.Row="10" Click="x10_y0_Click"/>
+            <Button Width="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" 
+                    Height="{Binding ElementName=C0_C0, Path=Width, Mode=OneWay}" Name="x11_y0" Grid.Column="0" Grid.Row="11" Click="x11_y0_Click"/>
+        </Grid>
+    </Grid>
+</UserControl>
